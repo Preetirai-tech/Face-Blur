@@ -1,1 +1,1 @@
-# Face-Blur using OpenCV
+# Face Blur using OpenCV
